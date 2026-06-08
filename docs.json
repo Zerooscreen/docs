@@ -1,0 +1,18 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Scary Movie 6 Thai",
+  "meta": {
+    "google-site-verification": "Yspo6fm99mQdSyA8eUrcIvfC0rtZg4w5IQCgTsM8450"
+  },
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ]
+  }
+}
